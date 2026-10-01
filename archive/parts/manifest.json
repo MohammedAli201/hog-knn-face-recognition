@@ -1,0 +1,36 @@
+{
+  "size": 44873729,
+  "sha256": "01f1ef2029fa70dbfc185ccab27134612ad522316e3a3b4cbcbd65c97cc1597c",
+  "parts": [
+    {
+      "path": "archive/parts/original-submission.zip.part01",
+      "size": 8388608,
+      "sha256": "d181378ddd12b8d003b44b4c95c5835c5625a89fa9bdb65ad457fbfb980de9b8"
+    },
+    {
+      "path": "archive/parts/original-submission.zip.part02",
+      "size": 8388608,
+      "sha256": "2427386ef9c894b7eee9a4d2bc5722278bd83ad21e822d9d872d8b19b408134c"
+    },
+    {
+      "path": "archive/parts/original-submission.zip.part03",
+      "size": 8388608,
+      "sha256": "a2ba776d8d7601364e3d99f2740b8b09a3e4307738d2e1e73b8abc4d1a828bb2"
+    },
+    {
+      "path": "archive/parts/original-submission.zip.part04",
+      "size": 8388608,
+      "sha256": "c75dea0cf84431e42dc1b94064e65bffb900e5de754e8c003416bde9a11d806d"
+    },
+    {
+      "path": "archive/parts/original-submission.zip.part05",
+      "size": 8388608,
+      "sha256": "d4309cef6542fff2954167017fb7c68b31f62ae37aaec23675bfcf41c3c0752e"
+    },
+    {
+      "path": "archive/parts/original-submission.zip.part06",
+      "size": 2930689,
+      "sha256": "96faec9a1e3bae374ad90b46553cc38aa72fef2cafd739cc7d8e3f170f63881f"
+    }
+  ]
+}

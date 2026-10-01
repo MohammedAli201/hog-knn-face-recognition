@@ -1,0 +1,7 @@
+# Original dependency versions were not supplied; this is an unpinned dependency list.
+opencv-python
+numpy
+scikit-image
+scikit-learn
+matplotlib
+seaborn
